@@ -1,3 +1,10 @@
+%*************************************************
+% Author: L.Arturo Torres-Romero
+% based on 
+% Levant A. (1998). Robust exact differentiation via sliding mode technique. 
+% Automatica, 34(3), 379-384
+%*************************************************
+
 function LevantDiff()
 clear all;
 dt = 0.01;
